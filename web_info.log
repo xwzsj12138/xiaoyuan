@@ -1,0 +1,272 @@
+2024-06-20 15:01:00.703 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 11416 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:01:00.709 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:01:00.769 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:01:00.770 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:01:02.394 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:01:02.403 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:01:02.404 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:01:02.404 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:01:02.406 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:01:02.407 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:01:02.407 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:01:02.411 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:01:02.489 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:01:02.489 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1718 ms
+2024-06-20 15:01:02.638 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:01:03.574 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:01:08.248 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:01:08.272 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:01:08.289 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:01:08.298 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 8.214 seconds (JVM running for 9.461)
+2024-06-20 15:01:08.299 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:01:08.302 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:02:22.325 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:02:22.325 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:02:22.326 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-06-20 15:05:25.566 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 10668 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:05:25.568 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:05:25.623 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:05:25.623 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:05:26.354 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-06-20 15:05:34.329 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 5800 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:05:34.332 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:05:34.387 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:05:34.388 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:05:35.119 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-06-20 15:06:23.035 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 15064 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:06:23.038 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:06:23.094 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:06:23.094 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:06:24.461 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:06:24.468 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:06:24.469 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:06:24.469 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:06:24.471 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:06:24.471 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:06:24.471 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:06:24.474 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:06:24.540 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:06:24.540 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1445 ms
+2024-06-20 15:06:24.697 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:06:26.144 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:06:29.193 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:06:29.216 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:06:29.229 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:06:29.238 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 6.736 seconds (JVM running for 7.765)
+2024-06-20 15:06:29.239 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:06:29.240 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:06:34.254 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:06:34.255 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:06:34.256 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 15:07:06.603 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 19788 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:07:06.605 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:07:06.656 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:07:06.657 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:07:08.063 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:07:08.070 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:07:08.070 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:07:08.071 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:07:08.072 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:07:08.072 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:07:08.073 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:07:08.075 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:07:08.141 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:07:08.141 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1483 ms
+2024-06-20 15:07:08.298 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:07:09.872 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:07:13.114 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:07:13.141 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:07:13.159 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:07:13.168 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 7.133 seconds (JVM running for 8.257)
+2024-06-20 15:07:13.169 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:07:13.171 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:07:13.580 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:07:13.580 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:07:13.581 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 15:07:59.680 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 20052 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:07:59.683 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:07:59.735 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:07:59.735 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:08:01.215 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:08:01.221 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:08:01.222 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:08:01.222 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:08:01.224 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:08:01.224 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:08:01.224 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:08:01.227 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:08:01.295 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:08:01.295 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1559 ms
+2024-06-20 15:08:01.451 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:08:02.954 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:08:06.097 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:08:06.119 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:08:06.132 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:08:06.141 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 7.0 seconds (JVM running for 8.002)
+2024-06-20 15:08:06.142 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:08:06.143 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:08:09.858 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:08:09.858 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:08:09.859 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 15:08:56.851 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 20356 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:08:56.854 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:08:56.925 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:08:56.926 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:08:58.460 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:08:58.468 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:08:58.469 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:08:58.469 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:08:58.471 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:08:58.472 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:08:58.472 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:08:58.475 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:08:58.548 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:08:58.548 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1622 ms
+2024-06-20 15:08:58.720 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:09:00.217 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:09:03.438 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:09:03.466 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:09:03.481 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:09:03.490 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 7.272 seconds (JVM running for 8.41)
+2024-06-20 15:09:03.492 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:09:03.494 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:09:03.638 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:09:03.639 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:09:03.640 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 15:37:45.262 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 16936 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:37:45.266 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:37:45.322 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:37:45.323 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:37:46.779 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:37:46.786 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:37:46.786 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:37:46.786 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:37:46.789 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:37:46.789 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:37:46.789 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:37:46.792 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:37:46.858 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:37:46.859 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1535 ms
+2024-06-20 15:37:47.015 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:37:48.495 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:37:51.618 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:37:51.644 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:37:51.659 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:37:51.667 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 6.987 seconds (JVM running for 8.058)
+2024-06-20 15:37:51.669 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:37:51.670 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:37:52.175 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:37:52.175 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:37:52.177 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 15:38:07.730 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 16880 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:38:07.735 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:38:07.804 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:38:07.804 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:38:09.047 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:38:09.053 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:38:09.054 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:38:09.054 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:38:09.056 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:38:09.056 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:38:09.056 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:38:09.059 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:38:09.116 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:38:09.116 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1311 ms
+2024-06-20 15:38:09.232 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:38:10.052 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:38:12.161 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:38:12.216 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:38:12.231 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:38:12.238 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 5.141 seconds (JVM running for 6.354)
+2024-06-20 15:38:12.239 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:38:12.241 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:38:54.458 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:38:54.458 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:38:54.460 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-06-20 15:39:18.650 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 6544 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:39:18.654 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:39:18.711 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:39:18.711 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:39:20.188 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 15:39:20.195 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:39:20.195 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 15:39:20.195 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 15:39:20.197 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 15:39:20.197 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 15:39:20.197 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 15:39:20.200 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 15:39:20.255 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 15:39:20.255 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1543 ms
+2024-06-20 15:39:20.412 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 15:39:21.958 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 15:39:25.168 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 15:39:25.194 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 15:39:25.210 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 15:39:25.220 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 7.062 seconds (JVM running for 8.207)
+2024-06-20 15:39:25.221 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 15:39:25.223 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 15:39:25.528 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 15:39:25.529 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 15:39:25.530 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 15:39:56.688 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 5356 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 15:39:56.690 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 15:39:56.736 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 15:39:56.736 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 15:39:57.547 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-06-20 16:35:38.232 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 16612 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 16:35:38.235 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 16:35:38.280 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 16:35:38.281 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 16:35:39.550 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 16:35:39.557 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 16:35:39.558 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 16:35:39.558 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 16:35:39.560 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 16:35:39.560 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 16:35:39.560 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 16:35:39.563 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 16:35:39.619 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 16:35:39.619 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1338 ms
+2024-06-20 16:35:39.740 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 16:35:40.635 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 16:35:42.993 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 16:35:43.019 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 16:35:43.035 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 16:35:43.044 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 5.401 seconds (JVM running for 6.416)
+2024-06-20 16:35:43.045 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 16:35:43.047 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 16:35:43.298 [http-nio-8091-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 16:35:43.298 [http-nio-8091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 16:35:43.299 [http-nio-8091-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 16:35:57.657 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Starting ProjectApplication using Java 1.8.0_221 on xwzsj with PID 20952 (C:\Users\DELL\Desktop\项目\校园\java-project\target\classes started by DELL in C:\Users\DELL\Desktop\项目\校园\java-project)
+2024-06-20 16:35:57.659 [restartedMain] INFO  com.wm.project.project.ProjectApplication - No active profile set, falling back to default profiles: default
+2024-06-20 16:35:57.717 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-20 16:35:57.717 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-20 16:35:59.209 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8091 (http)
+2024-06-20 16:35:59.218 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
+2024-06-20 16:35:59.218 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-20 16:35:59.219 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2024-06-20 16:35:59.221 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2024-06-20 16:35:59.221 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2024-06-20 16:35:59.221 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-06-20 16:35:59.226 [restartedMain] INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2024-06-20 16:35:59.292 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-20 16:35:59.292 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1574 ms
+2024-06-20 16:35:59.434 [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2024-06-20 16:36:00.283 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2024-06-20 16:36:02.576 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-06-20 16:36:02.599 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
+2024-06-20 16:36:02.615 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8091 (http) with context path ''
+2024-06-20 16:36:02.624 [restartedMain] INFO  com.wm.project.project.ProjectApplication - Started ProjectApplication in 5.488 seconds (JVM running for 7.827)
+2024-06-20 16:36:02.624 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state LivenessState changed to CORRECT
+2024-06-20 16:36:02.626 [restartedMain] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2024-06-20 16:37:42.450 [http-nio-8091-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-20 16:37:42.450 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-20 16:37:42.451 [http-nio-8091-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-20 16:38:26.408 [SpringContextShutdownHook] INFO  o.s.boot.availability.ApplicationAvailabilityBean - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
