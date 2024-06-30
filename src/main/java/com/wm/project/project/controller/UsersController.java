@@ -176,7 +176,7 @@ public class UsersController {
     }
     @GetMapping("Test12")
     public String Test12(String userId){
-        System.out.println("userId+"+userId);
+        System.out.println("userId22wm+"+userId);
         return "testDemo1:"+userId;
     }
 }
